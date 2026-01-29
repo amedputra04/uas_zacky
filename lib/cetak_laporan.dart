@@ -212,7 +212,7 @@ class _CetakLaporanState extends State<CetakLaporan> {
         build: (context) => [
           pw.Center(
             child: pw.Column(children: [
-              pw.Text("CV. Astra Honda",
+              pw.Text("PT. PARA NIAGA DIGITA",
                   style: pw.TextStyle(
                       fontSize: 20, fontWeight: pw.FontWeight.bold)),
               pw.Text("Manajemen Data sepatu"),
